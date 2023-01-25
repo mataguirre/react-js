@@ -1,0 +1,6 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.wordWrap": "on"
+}
